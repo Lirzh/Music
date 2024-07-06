@@ -6,7 +6,7 @@ C++ Mp3-Player
 
 [Original Post](https://www.cnblogs.com/fox-nest/p/13216655.html)
 
-An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest/p/13216655.html), I added a graphical interface~~(command line)~~ to it.
+An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest/p/13216655.html), I added a graphical interface ~~(command line)~~ to it.
 
 Please place your mp3 audio **(only in English)** into the `Music` folder, then run Music.exe.
 

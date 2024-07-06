@@ -6,7 +6,7 @@ C++ Mp3-Player
 
 [原帖](https://www.cnblogs.com/fox-nest/p/13216655.html)  
 
-在[网上冲浪](https://www.cnblogs.com/fox-nest/p/13216655.html)时的意外发现，为其加上了   图形界面~~(命令行)~~ 。
+在[网上冲浪](https://www.cnblogs.com/fox-nest/p/13216655.html)时的意外发现，为其加上了   图形界面 ~~(命令行)~~  。
 
 请将你的mp3音频 **(只能有英文)** 放入`Music`文件夹，然后运行Music.exe。
 
