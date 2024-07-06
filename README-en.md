@@ -1,20 +1,25 @@
 # Music
 
-[Chinese](https://github.com/Lirzh/Music/blob/main/README.md)
+[English](https://github.com/Lirzh/Music/blob/main/README-en.md)
 
 C++ Mp3-Player
 
 [Original Post](https://www.cnblogs.com/fox-nest/p/13216655.html)
 
-An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest/p/13216655.html), I added a graphical interface ~~(command line)~~ to it.
+An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest/p/13216655.html), and I've added a graphical interface to it ~~(command line)~~.
 
-Please place your mp3 audio **(only in English)** into the `Music` folder, then run Music.exe.
+------
 
-Press the 'Space' to pause/continue, 'ESC' to stop, 'A' or 'a' for the previous track, 'D' or 'd' for the next track.
+Download this [Music.exe](https://github.com/Lirzh/Music/releases/download/Begin_End/Music.exe).
+
+Create a folder named `Music` in the same directory as Music.exe, and put your mp3 audio **(only in English)** into the `Music` folder, then run Music.exe.
+
+Press the 'Spacebar' to pause/resume, 'ESC' to stop, 'A' or 'a' for the previous song, 'D' or 'd' for the next song.
 
 Then start enjoying.
 
 ------
+
 ###### Abandoned Project
 
-Unable to resolve the playback progress issue, unable to automatically play the next track, and to display a progress bar, etc.
+Unable to resolve the issue of playback progress, automatic next song, and display of the progress bar, etc.
