@@ -1,6 +1,6 @@
 # MuSic
 
-[English](https://github.com/Lirzh/Music/blob/main/README-en.md)  
+[English(英文)](https://github.com/Lirzh/Music/blob/main/README-en.md)  
 
 C++ Mp3-Player
 
