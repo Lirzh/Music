@@ -10,7 +10,7 @@ An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest
 
 ------
 
-Download this [Music-en.exe](https://github.com/Lirzh/Music/releases/download/Begin_End/Music-en.exe).
+Download this [Music-en.exe](https://github.com/Lirzh/Music/releases/download/renascent/Music-en.exe).
 
 Create a folder named `Music` in the same directory as Music.exe, and put your mp3 audio **(only in English)** into the `Music` folder, then run Music.exe.
 
