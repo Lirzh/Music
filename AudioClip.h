@@ -28,6 +28,7 @@ private:
     std::string filename; // 音频文件的完整路径
     std::string alias; // 音频文件的别名，用于MCI命令中标识特定的音频
     int length_ms; // 音频文件的总长度，单位为毫秒
+    char randstr[6]; // 音频文件别名 
 public:
     // 构造函数，初始化AudioClip
     AudioClip();
@@ -45,4 +46,6 @@ public:
     bool unpause();
     // 返回音频文件的总长度，单位为毫秒
     int milliseconds();
+    // 返回目前播放进度，单位为毫秒
+	int nowseconds(); 
 };

@@ -42,7 +42,6 @@ bool AudioClip::load(const std::string& _filename) {
     // 生成别名
     alias = "mp3_";
     srand(time(NULL)); // 用当前时间初始化随机数种子
-    char randstr[6];
     _itoa(rand() % 65536, randstr, 10); // 生成随机数字符串
     alias.append(randstr); // 将随机数字符串添加到别名
     std::string cmd;
@@ -95,4 +94,11 @@ bool AudioClip::unpause() {
 // 返回音频的总长度（毫秒）
 int AudioClip::milliseconds() {
     return length_ms; // 返回音频长度
+}
+// 返回目前播放进度（毫秒）
+int AudioClip::nowseconds() {
+	std::string cmd = "status " + alias + " position"; // 获取前播放进度
+    if (mci.send(cmd) == false)
+        return false;
+    return atoi(mci.buf); // 将 MCI 返回的长度字符串转换为整数
 }

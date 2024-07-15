@@ -20,6 +20,6 @@ Then start enjoying.
 
 ------
 
-###### Abandoned Project
+###### Resurrected Project
 
-Unable to resolve the issue of playback progress, automatic next song, and display of the progress bar, etc.
+Solved the issue with the playback progress, it can now automatically play the next song and display a progress bar.
