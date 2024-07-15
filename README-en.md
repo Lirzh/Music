@@ -1,6 +1,6 @@
 # Music
 
-[English](https://github.com/Lirzh/Music/blob/main/README-en.md)
+[Chinese(中文)](https://github.com/Lirzh/Music/blob/main/README.md)
 
 C++ Mp3-Player
 
@@ -10,16 +10,13 @@ An unexpected discovery while [surfing the web](https://www.cnblogs.com/fox-nest
 
 ------
 
-Download this [Music.exe](https://github.com/Lirzh/Music/releases/download/Begin_End/Music.exe).
+Download this [Music-en.exe](https://github.com/Lirzh/Music/releases/download/Begin_End/Music-en.exe).
 
 Create a folder named `Music` in the same directory as Music.exe, and put your mp3 audio **(only in English)** into the `Music` folder, then run Music.exe.
 
-Press the 'Spacebar' to pause/resume, 'ESC' to stop, 'A' or 'a' for the previous song, 'D' or 'd' for the next song.
+Press 'Space' to pause/resume, 'ESC' to stop.
+'W' or 'w' for the previous track, 'S' or 's' for the next track.
+'A' or 'a' key will rewind by 5 seconds, 'D' or 'd' key to advance 5 seconds forward.
 
-Then start enjoying.
+Then start enjoying(It can automatically play the next song and display a progress bar).
 
-------
-
-###### Resurrected Project
-
-Solved the issue with the playback progress, it can now automatically play the next song and display a progress bar.
