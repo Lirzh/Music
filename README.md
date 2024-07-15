@@ -10,7 +10,7 @@ C++ Mp3-Player
 
 ------
 
-下载这个 [Music.exe](https://github.com/Lirzh/Music/releases/download/Begin_End/Music.exe) 。
+下载这个 [Music.exe](https://github.com/Lirzh/Music/releases/download/renascent/Music.exe) 。
 
 在与Music.exe的目录下新建一个`Music`文件夹，并将你的mp3音频 **(只能有英文)** 放入`Music`文件夹，然后运行Music.exe。
 
